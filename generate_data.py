@@ -121,4 +121,4 @@ while(True):
     # Send to Kafka
     producer.flush()
     secCounter += 1
-    time.sleep(0.08)
+    time.sleep(0.1)
